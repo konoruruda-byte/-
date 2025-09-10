@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3 uid="uid://c70c74hqcm0pa"]
+
+[ext_resource type="Texture2D" uid="uid://bhjf6ocam2ikr" path="res://icon.svg" id="1_wtcfe"]
+
+[node name="Node2D" type="Node2D"]
+position = Vector2(1, -2)
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(-7.00002, 41)
+rotation = -0.0851241
+scale = Vector2(3.40524, 2.82526)
+skew = 0.0628319
+texture = ExtResource("1_wtcfe")
